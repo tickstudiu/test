@@ -1,0 +1,15 @@
+1. git init to create repository
+2. git config --global user.email "tickstudiu@gmail.com"
+   git config --global user.name "tickstudiu"
+
+3. your own file
+
+4. git add . //to add all file
+4.1 git add filename.filetype
+
+5. git commit -m "your msg"
+
+6. git remote add origin <url> //to set your github server
+7. git push -u origin master
+
+//done simple code to use github	
